@@ -1,5 +1,5 @@
-# Revving.AI LLM Dashboard
-
+# LLM Dashboard
+Try Now: link ``` https://aashif000.github.io/LLM-Dashboard.github.io/ ```
 This is the LLM Dashboard project for Revving.AI. It is built with TypeScript, React, and Jest for testing. The project provides an interface for interacting with large language models (LLMs).
 
 ## Prerequisites
