@@ -1,5 +1,6 @@
 {
   "name": "vite_react_shadcn_ts",
+  "homepage": "https://aashif000.github.io/LLM-Dashboard.github.io/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,7 +10,9 @@
     "build:dev": "vite build --mode development",
     "lint": "eslint .",
     "preview": "vite preview",
-    "test": "jest"
+    "test": "jest",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@auth/core": "0.34.2",
