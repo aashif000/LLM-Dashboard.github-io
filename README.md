@@ -30,10 +30,7 @@ cd llm_dashboard
 npm install
  ```
 
-### 3. Environment Setup
-Make sure you have the correct environment configurations, such as API keys or any other environment-specific variables. You can add environment variables in a .env file.
-
-### 4. Run the Development Server
+### 3. Run the Development Server
 To start the development server, run:
 
  ```bash
