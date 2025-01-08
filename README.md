@@ -17,7 +17,7 @@ To get started with the project, follow these steps:
 
 ### 1. Clone the repository
 
-```bash
+bash ```
 git clone https://github.com/your-username/llm_dashboard.git
 
 ### 2. Install dependencies
@@ -38,8 +38,8 @@ npm run dev
 
 This will start the server, and the application will be available at http://localhost:3000.
 
-Testing
-1. Running Tests
+## Testing
+### 1. Running Tests
 To run the tests, use the following command:
 
 bash ```
@@ -47,7 +47,7 @@ bash ```
 npm test
 This will trigger Jest to run the test suites and output the results.
 
-2. Testing in Development Mode
+### 2. Testing in Development Mode
 For continuous testing, you can run Jest in watch mode:
 
 bash ```
